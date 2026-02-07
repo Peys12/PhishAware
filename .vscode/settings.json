@@ -1,0 +1,10 @@
+{
+  "editor.formatOnSave": true,
+
+  "tailwindCSS.includeLanguages": {
+    "svelte": "html"
+  },
+  "tailwindCSS.emmetCompletions": true,
+  "tailwindCSS.validate": true
+}
+
