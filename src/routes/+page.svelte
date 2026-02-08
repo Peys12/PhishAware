@@ -39,7 +39,7 @@
       <div class=" card  w-96 shadow-sm  flex justify-center">
         <div class=" card-body border-2 border-[#E67E22] rounded-2xl ">
            <div class=" flex justify-center">
-            <h3 class=" text-[25px] text-[#E67E22] font-bold ">Phishing Simulasi</h3>
+            <h3 class=" text-[25px] text-[#E67E22] font-bold ">Phishing Simulation</h3>
            </div>
            <hr class=" border-2 border-[#E67E22]">
            <div>
@@ -50,7 +50,7 @@
            </div>
            <a href="phising" class=" mt-auto btn btn-outline border-2 border-[#E67E22] text-[#E67E22] hover:bg-[#E67E22] hover:text-white text-[16px] font-bold">
                 <button >
-                Open Phising Simulator
+                Open Phising Simulation
               </button>
             </a>
 
@@ -82,7 +82,7 @@
            </div>
            <hr class=" border-2 border-[#E67E22]">
            <div>
-             <p class="text-[18px] text-center text-[#E67E22]">Edukasi mengenai berbagai jenis malware, seperti virus, trojan, ransomware, dan spyware.
+             <p class="text-[18px] text-center text-[#E67E22]">Edukasi mengenai berbagai jenis malware, seperti virus, trojan, dan ransomware.
 Pengguna akan diperkenalkan pada cara kerja malware, dampak yang dapat ditimbulkan, serta tanda-tanda umum perangkat yang terinfeksi.
 Dengan pendekatan visual dan penjelasan sederhana, fitur ini membantu meningkatkan kesadaran pengguna terhadap ancaman malware tanpa menjalankan program berbahaya secara nyata.
             </p>
